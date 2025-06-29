@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("ApplicationKDB")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("soon")]
 [assembly: AssemblyProduct("ApplicationKDB")]
-[assembly: AssemblyCopyright("Copyright ©  2024")]
+[assembly: AssemblyCopyright("Copyright ©PhixOn-z3r")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
