@@ -1,4 +1,4 @@
-# KDB Book Manager – پروژه مدیریت کتاب ASP.NET. WebForms
+# KDB Book Manager – پروژه مدیریت کتاب ASP.NET WebForms
 
 ![دموی پروژه](./demo.jpg)
 
