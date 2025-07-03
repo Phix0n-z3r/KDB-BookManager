@@ -1,6 +1,8 @@
 # KDB Book Manager – پروژه مدیریت کتاب ASP.NET WebForms
 
-![دموی پروژه](./demo.jpg)
+<p align="center">
+  <img src="demo.jpg" alt="Demo Screenshot" width="600"/>
+</p>
 
 ## معرفی پروژه KDB Book Manager
 
