@@ -39,4 +39,7 @@ KDB Book Manager یک **اپلیکیشن وب توسعه یافته با ASP.NET
 
 ---
 
-<div ="center">Noob Days</div>
+<p align="center" style="color:gray; font-size:small; margin-top: 20px;">
+  Noob days
+</p>
+
